@@ -1,0 +1,25 @@
+﻿<Window x:Class="MedelvärdeApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedelvärdeApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        SizeToContent="WidthAndHeight">
+    <StackPanel>
+        <Label Margin="10" Width="170">Medelvärdeserie</Label>
+
+        <StackPanel Orientation="Horizontal">
+           <Label Margin="10" Width="70">Ange Tal: </Label>
+           <TextBox Name="txbTal" Margin="10" Width="150"></TextBox>
+        </StackPanel>
+
+        <Button Click="KlickAddera" Margin="10" Padding="5" Width="150">Addera</Button>
+
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="10" Width="70">Resultat: </Label>
+            <TextBox Name="txbResultat" Margin="10" Width="150"></TextBox>
+        </StackPanel>
+    </StackPanel>
+</Window>

@@ -1,0 +1,10 @@
+25-04-29 12:55 Session started
+----------------------------------------
+
+12:55:02 002:020 > 9
+12:55:02 Document switched to: c:\Users\william.larssonlaus\github-classroom\prog1-wpf-TE23E-William-Lauseger\global.json
+----------------------------------------
+12:55:10 Document switched to: c:\Users\william.larssonlaus\github-classroom\prog1-wpf-TE23E-William-Lauseger\.vscode\extensions.json
+----------------------------------------
+12:55:21 Document switched to: c:\Users\william.larssonlaus\github-classroom\prog1-wpf-TE23E-William-Lauseger\global.json
+----------------------------------------
